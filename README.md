@@ -1,0 +1,1 @@
+# Notes Frontend Demo - Vite React TypeScript
